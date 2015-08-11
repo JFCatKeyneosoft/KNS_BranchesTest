@@ -40,6 +40,7 @@
 		A3FC99641B79E7CA009AFA95 /* KNS_BranchesTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KNS_BranchesTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3FC99691B79E7CA009AFA95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A3FC996A1B79E7CA009AFA95 /* KNS_BranchesTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KNS_BranchesTestTests.m; sourceTree = "<group>"; };
+		A3FC99741B79E898009AFA95 /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 		A3FC99421B79E7CA009AFA95 = {
 			isa = PBXGroup;
 			children = (
+				A3FC99741B79E898009AFA95 /* ReadMe.md */,
 				A3FC994D1B79E7CA009AFA95 /* KNS_BranchesTest */,
 				A3FC99671B79E7CA009AFA95 /* KNS_BranchesTestTests */,
 				A3FC994C1B79E7CA009AFA95 /* Products */,
@@ -416,6 +418,7 @@
 				A3FC99701B79E7CA009AFA95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A3FC99711B79E7CA009AFA95 /* Build configuration list for PBXNativeTarget "KNS_BranchesTestTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +427,7 @@
 				A3FC99731B79E7CA009AFA95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
