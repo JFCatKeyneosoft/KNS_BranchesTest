@@ -27,6 +27,15 @@
 
 // ADD DEV
 
+// IT'S STABLE
+// ok my second release was send
+
+
+// IT'S DISTRIBUTED ?
+//
+
+// ADD DEV
+
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
