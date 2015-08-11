@@ -14,6 +14,13 @@
 
 @implementation AppDelegate
 
+// ADD DEV
+
+// ADD DEV
+
+// ADD DEV
+
+// IT'S STABLE
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
