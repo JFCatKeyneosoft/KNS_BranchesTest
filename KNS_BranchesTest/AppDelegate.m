@@ -21,6 +21,10 @@
 // ADD DEV
 
 // IT'S STABLE
+// ok my first release was send
+
+// ADD DEV
+
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
